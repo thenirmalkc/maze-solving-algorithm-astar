@@ -188,7 +188,7 @@ function draw() {
   if (cell == end) {
     fillCell(end, 'orangered');
     search = false;
-    // setTimeout(() => setup(), 2000);
+    setTimeout(() => setup(), 4000);
     return;
   }
   for (const previousCell of previousCells) {
