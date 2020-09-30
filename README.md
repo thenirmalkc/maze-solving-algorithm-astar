@@ -1,2 +1,1 @@
-# maze-solving-algorithm-astar
-Solving mazes with A* algorithm
+# Solving mazes with A* algorithm
