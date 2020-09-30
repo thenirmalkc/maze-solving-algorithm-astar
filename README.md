@@ -10,3 +10,5 @@
 _**Notes:**_
   - The distance between node and its neighbour node is 1 unit.
   - The heuristic function returns the **Manhatten Distance** between the current node and end node.
+  
+_**A new maze is generated after 4 seconds when a maze is solved.**_
