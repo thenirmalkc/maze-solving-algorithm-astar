@@ -1,6 +1,6 @@
 # Solving No Dead Ends mazes using A* search
 
-## Live Demo [Click Me !!](https://thenirmalkc.github.io/maze-generator/)
+## Live Demo [Click Me !!](https://thenirmalkc.github.io/maze-solving-algorithm-astar/)
 
 ![Maze](screenshots/maze-solving-algorithm-a*.png)
 
